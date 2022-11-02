@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SAP.Control.IdentifyTool", "SAP.Control.IdentifyTool\SAP.Control.IdentifyTool.vbproj", "{D873C131-62EA-4CBA-94C2-A41CF40F7593}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{922FD9E6-6906-4B55-973F-A9E2CE0F4057}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SAP.Utilities", "SAP.Utilities\SAP.Utilities.vbproj", "{932986DA-8DE1-4F8F-A3DC-2586844F093A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D873C131-62EA-4CBA-94C2-A41CF40F7593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D873C131-62EA-4CBA-94C2-A41CF40F7593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D873C131-62EA-4CBA-94C2-A41CF40F7593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D873C131-62EA-4CBA-94C2-A41CF40F7593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932986DA-8DE1-4F8F-A3DC-2586844F093A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932986DA-8DE1-4F8F-A3DC-2586844F093A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932986DA-8DE1-4F8F-A3DC-2586844F093A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932986DA-8DE1-4F8F-A3DC-2586844F093A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {850E33C5-2D3B-49F6-A1C5-DE01B3629793}
+	EndGlobalSection
+EndGlobal
